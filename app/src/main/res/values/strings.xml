@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoTap</string>
+    <string name="accessibility_label">AutoTap Clicker</string>
+    <string name="accessibility_desc">Lets AutoTap perform the taps at your chosen dots. No screen reading — only gesture output.</string>
+
+    <string name="overlay_perm">Display over other apps</string>
+    <string name="accessibility_perm">Accessibility (tap output)</string>
+    <string name="granted">granted</string>
+    <string name="required">required — tap to enable</string>
+
+    <string name="grant_overlay">Grant overlay permission</string>
+    <string name="open_accessibility">Open Accessibility settings</string>
+    <string name="show_overlay">Show floating controls</string>
+
+    <string name="how_title">How to use</string>
+    <string name="how_body">1. Grant both permissions above.\n2. Tap \"Show floating controls\" — a small bubble appears over every app.\n3. Tap the bubble to open the menu. Add dots and drag each one to where you want taps.\n4. Set the speed (CPS).\n5. Toggle mode: press START to click continuously (keeps going if you collapse the menu).\n6. Hold mode: press and hold the HOLD pad to click; let go to stop. Collapsing the menu stops hold-clicking.\n\nDots become tap-through while clicking, so move them while clicking is stopped.</string>
+</resources>

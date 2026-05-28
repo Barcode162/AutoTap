@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0B0F14</color>
+    <color name="surface">#141A22</color>
+    <color name="surfaceHigh">#1C2530</color>
+    <color name="onSurface">#E6EDF3</color>
+    <color name="onSurfaceDim">#8B98A5</color>
+    <color name="accent">#3DDC97</color>
+    <color name="accentDim">#1F8A5C</color>
+    <color name="warn">#F2C14E</color>
+    <color name="danger">#E5484D</color>
+    <color name="dot">#CCE5484D</color>
+    <color name="dotArmed">#CC3DDC97</color>
+    <color name="panelBg">#F2121821</color>
+    <color name="bubbleBg">#F23DDC97</color>
+</resources>
